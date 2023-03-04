@@ -13,7 +13,10 @@
       startingNumber -= 1;
 
 
-    }console.log( startingNumber );
+    }
+    console.log( startingNumber );
+
+
 
 
   }
